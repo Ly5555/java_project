@@ -1,0 +1,11 @@
+# 编译产物（.class 文件由 .java 编译而来，无需入库）
+*.class
+
+# IDEA 编译输出目录
+out/
+
+# IDEA 个人配置目录（每台电脑不同，不入库）
+.idea/
+
+# macOS 系统文件
+.DS_Store
